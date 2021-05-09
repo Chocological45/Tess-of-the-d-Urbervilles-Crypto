@@ -1,3 +1,5 @@
+# Performs frequency analysis on the tess27.txt file in the case that the results differ from the general frequency analysis
+
 import collections
 
 with open('/Users/saptarshinath/Desktop/tess27.txt') as file:
